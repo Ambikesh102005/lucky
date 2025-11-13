@@ -33,3 +33,10 @@ Git & GitHub
 Coding not just to learn…
 But to rule, create, and evolve.
 Python God-King mode always ON 👑🐍✨
+🐍 Python
+
+hello.py → Prints Lucky — Python God-King 👑🐍🔥
+
+☕ Java
+
+Main.java → Prints Lucky — Java ka bhi asli God-King 😏🔥
