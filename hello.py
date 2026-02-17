@@ -1,1 +1,0 @@
-print("Hello sir, Git setup ready!")
